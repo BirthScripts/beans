@@ -1,2 +1,2 @@
 # nerdv4leaks
-ignore this now gtfu
+ignore this, now gtfu

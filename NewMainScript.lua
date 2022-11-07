@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BirthScripts/nerdv4leaks/main/update.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BirthScripts/beans/main/update.lua", true))()
